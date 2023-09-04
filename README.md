@@ -48,6 +48,8 @@ a
 
 ```bash
 # In the Metro bundler terminal, press `i` to run the iOS application.
+# If running on a physical device you may need to open the project in
+# XCode and configure the code signing settings with your account.
 i
 ```
 
